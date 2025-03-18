@@ -10,7 +10,7 @@
 # 📫 **Let's Connect**
 * 💬 Feel free to reach out if you want to collaborate or discuss tech ideas  
 * 📧 Email: iliesandreicristian.15@gmail.com  
-* 🔗 www.linkedin.com/in/andrei-cristian-ilieș-397521293 | https://github.com/AndreiCIlies
+* 🔗 www.linkedin.com/in/andrei-cristian-ilieș-397521293
 
 
 # 💻 Tech Stack
